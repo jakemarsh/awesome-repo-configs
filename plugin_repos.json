@@ -50798,5 +50798,122 @@
     "repoOwner": "pushprove-max",
     "repoName": "conveyor-belt",
     "repoBranch": "main"
+  },
+  "off-grid-ai/skills": {
+    "name": "off-grid-ai/skills",
+    "description": "Stop babysitting your AI. 49 free skills that make Claude Code, Codex, Cursor and 60+ agents build, test and ship like a senior team.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "off-grid-ai",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "tusharsrivastava/shark-skills": {
+    "name": "tusharsrivastava/shark-skills",
+    "description": "Running Claude Code like an engineering team: one operator, parallel lanes, audited merges.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tusharsrivastava",
+    "repoName": "shark-skills",
+    "repoBranch": "main"
+  },
+  "Oranamar9/mobile-cicd-skill": {
+    "name": "Oranamar9/mobile-cicd-skill",
+    "description": "Claude skill: complete GitHub Actions CI/CD for Capacitor, Expo and React Native apps, with tag-driven App Store and Google Play releases",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Oranamar9",
+    "repoName": "mobile-cicd-skill",
+    "repoBranch": "main"
+  },
+  "Aboudjem/sniff": {
+    "name": "Aboudjem/sniff",
+    "description": "Finds what is broken in your running web app: walks it in a real browser, reports each bug with steps to reproduce.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Aboudjem",
+    "repoName": "sniff",
+    "repoBranch": "main"
+  },
+  "makspost5/Flagman": {
+    "name": "makspost5/Flagman",
+    "description": "Run big tasks with ease. See everything at a glance. A Claude Code plugin: a live dependency graph of a big task, its stages and statuses, updated by parallel sessions.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "makspost5",
+    "repoName": "Flagman",
+    "repoBranch": "main"
+  },
+  "Mahmoudd777/shpilot": {
+    "name": "Mahmoudd777/shpilot",
+    "description": "Odoo.sh from the terminal and from Claude Code: builds, live logs, backups, SSH and browser tests on staging, with a production guard that waits for a person. Based on odouche.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Mahmoudd777",
+    "repoName": "shpilot",
+    "repoBranch": "main"
+  },
+  "wireboard/wireboard-claude-plugin": {
+    "name": "wireboard/wireboard-claude-plugin",
+    "description": "Official Claude Code plugin for WireBoard. Install tracking, custom events, SPA route tracking, and cookie consent flow in any web codebase.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wireboard",
+    "repoName": "wireboard-claude-plugin",
+    "repoBranch": "master"
+  },
+  "M-Julius/brand-kickstart": {
+    "name": "M-Julius/brand-kickstart",
+    "description": "Agent skill: check a brand name across Instagram, TikTok, YouTube, X, GitHub, npm, PyPI and domains, then draw the logo, favicons and social banners.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "M-Julius",
+    "repoName": "brand-kickstart",
+    "repoBranch": "main"
+  },
+  "cloudgpu-app/cloudgpu-mcp": {
+    "name": "cloudgpu-app/cloudgpu-mcp",
+    "description": "GPU compute for AI agents: live quotes, minute or started-hour billing, budget-capped tasks, result saving and release. Local and remote MCP.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cloudgpu-app",
+    "repoName": "cloudgpu-mcp",
+    "repoBranch": "main"
+  },
+  "ekanshvcpkg/VID-BASE": {
+    "name": "ekanshvcpkg/VID-BASE",
+    "description": "\u2733 Vidbase \u2014 autonomous AI video studio for Claude Code: hooks, cuts, captions, 3D motion graphics, ElevenLabs SFX & self-QC",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ekanshvcpkg",
+    "repoName": "VID-BASE",
+    "repoBranch": "main"
+  },
+  "adamoelz/gemkeeper": {
+    "name": "adamoelz/gemkeeper",
+    "description": "Never kill a good Claude Code session again. A tiny, always-current ledger of mission-critical context that survives /clear and compaction.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "adamoelz",
+    "repoName": "gemkeeper",
+    "repoBranch": "main"
+  },
+  "pdemagny/feat-agent": {
+    "name": "pdemagny/feat-agent",
+    "description": "A Claude Code workflow from idea to merge-ready PR on autopilot: an AI engineering team in your terminal, with spec-driven planning, right-sized models and smart gates that only stop you when it matters.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pdemagny",
+    "repoName": "feat-agent",
+    "repoBranch": "main"
+  },
+  "0exp/daiver-prompt-view": {
+    "name": "0exp/daiver-prompt-view",
+    "description": "A Claude Code mod that shows what your session is doing: a status line under the prompt with live agents, usage limits and git state, a framed chat with copy buttons, and a pane with your prompt history.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "0exp",
+    "repoName": "daiver-prompt-view",
+    "repoBranch": "main"
   }
 }

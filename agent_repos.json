@@ -7604,5 +7604,12 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "tusharsrivastava/shark-skills": {
+    "owner": "tusharsrivastava",
+    "name": "shark-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

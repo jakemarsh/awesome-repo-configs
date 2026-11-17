@@ -58592,5 +58592,113 @@
         "name": "brb",
         "branch": "main",
         "enabled": true
+    },
+    "off-grid-ai/skills": {
+        "owner": "off-grid-ai",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "unclejobs-ai/motion-video-skill": {
+        "owner": "unclejobs-ai",
+        "name": "motion-video-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tusharsrivastava/shark-skills": {
+        "owner": "tusharsrivastava",
+        "name": "shark-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Oranamar9/mobile-cicd-skill": {
+        "owner": "Oranamar9",
+        "name": "mobile-cicd-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nishkarsh-shah/prompt-master": {
+        "owner": "nishkarsh-shah",
+        "name": "prompt-master",
+        "branch": "main",
+        "enabled": true
+    },
+    "Aboudjem/sniff": {
+        "owner": "Aboudjem",
+        "name": "sniff",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "makspost5/Flagman": {
+        "owner": "makspost5",
+        "name": "Flagman",
+        "branch": "main",
+        "enabled": true
+    },
+    "Mahmoudd777/shpilot": {
+        "owner": "Mahmoudd777",
+        "name": "shpilot",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wireboard/wireboard-claude-plugin": {
+        "owner": "wireboard",
+        "name": "wireboard-claude-plugin",
+        "branch": "master",
+        "enabled": true
+    },
+    "M-Julius/brand-kickstart": {
+        "owner": "M-Julius",
+        "name": "brand-kickstart",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cloudgpu-app/cloudgpu-mcp": {
+        "owner": "cloudgpu-app",
+        "name": "cloudgpu-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ekanshvcpkg/VID-BASE": {
+        "owner": "ekanshvcpkg",
+        "name": "VID-BASE",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "likunru-oss/character-sheet-skill": {
+        "owner": "likunru-oss",
+        "name": "character-sheet-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "adamoelz/gemkeeper": {
+        "owner": "adamoelz",
+        "name": "gemkeeper",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "pdemagny/feat-agent": {
+        "owner": "pdemagny",
+        "name": "feat-agent",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "0exp/daiver-prompt-view": {
+        "owner": "0exp",
+        "name": "daiver-prompt-view",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
