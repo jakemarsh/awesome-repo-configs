@@ -7576,5 +7576,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "me2resh/apexyard": {
+    "owner": "me2resh",
+    "name": "apexyard",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "h2xd/skills": {
+    "owner": "h2xd",
+    "name": "skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

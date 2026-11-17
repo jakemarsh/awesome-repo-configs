@@ -58391,5 +58391,107 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "me2resh/apexyard": {
+        "owner": "me2resh",
+        "name": "apexyard",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "archid21/whatsnext": {
+        "owner": "archid21",
+        "name": "whatsnext",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Pitchdrive/investor-update-skill": {
+        "owner": "Pitchdrive",
+        "name": "investor-update-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "somebox/pcb-kit": {
+        "owner": "somebox",
+        "name": "pcb-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ggreing/do-it-all-claude-code": {
+        "owner": "ggreing",
+        "name": "do-it-all-claude-code",
+        "branch": "main",
+        "enabled": true
+    },
+    "frolad/tars": {
+        "owner": "frolad",
+        "name": "tars",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "0x0elliot/chalktalk": {
+        "owner": "0x0elliot",
+        "name": "chalktalk",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ddalgrande/dining-places-skill": {
+        "owner": "ddalgrande",
+        "name": "dining-places-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "selyassine/claude_actuaire": {
+        "owner": "selyassine",
+        "name": "claude_actuaire",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Insightful-Pipe/paid-media-skills": {
+        "owner": "Insightful-Pipe",
+        "name": "paid-media-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Insightful-Pipe/email-marketing-skills": {
+        "owner": "Insightful-Pipe",
+        "name": "email-marketing-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "duolahypercho/z-stack": {
+        "owner": "duolahypercho",
+        "name": "z-stack",
+        "branch": "main",
+        "enabled": true
+    },
+    "h2xd/skills": {
+        "owner": "h2xd",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "marfago-labs/paper-research": {
+        "owner": "marfago-labs",
+        "name": "paper-research",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "routinerun/routinerun": {
+        "owner": "routinerun",
+        "name": "routinerun",
+        "branch": "main",
+        "enabled": true
     }
 }
