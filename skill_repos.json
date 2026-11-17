@@ -58700,5 +58700,96 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "nocodehack/nocodehack-roblox-engine": {
+        "owner": "nocodehack",
+        "name": "nocodehack-roblox-engine",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "diagridio/diagrid-ai": {
+        "owner": "diagridio",
+        "name": "diagrid-ai",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "openfabriq/openfabriq": {
+        "owner": "openfabriq",
+        "name": "openfabriq",
+        "branch": "main",
+        "enabled": true
+    },
+    "JacobPEvans-ai/claude-code-plugins": {
+        "owner": "JacobPEvans-ai",
+        "name": "claude-code-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "caggursoy/biopsych-prereg-skill": {
+        "owner": "caggursoy",
+        "name": "biopsych-prereg-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "karolkozer/agentwhy": {
+        "owner": "karolkozer",
+        "name": "agentwhy",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "k-joel/agent-skills": {
+        "owner": "k-joel",
+        "name": "agent-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "jbryan79/skillz": {
+        "owner": "jbryan79",
+        "name": "skillz",
+        "branch": "main",
+        "enabled": true
+    },
+    "dukesky/rate-my-tennis-skill": {
+        "owner": "dukesky",
+        "name": "rate-my-tennis-skill",
+        "branch": "master",
+        "enabled": true
+    },
+    "tkxlab-ai/GitX": {
+        "owner": "tkxlab-ai",
+        "name": "GitX",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "gbertelliti-collab/claude-skills": {
+        "owner": "gbertelliti-collab",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "stellakamikaze/arturo": {
+        "owner": "stellakamikaze",
+        "name": "arturo",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cweeperde/claude-skills": {
+        "owner": "cweeperde",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Hiobi/Genealogiste": {
+        "owner": "Hiobi",
+        "name": "Genealogiste",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

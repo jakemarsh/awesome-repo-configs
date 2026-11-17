@@ -7611,5 +7611,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "tkxlab-ai/GitX": {
+    "owner": "tkxlab-ai",
+    "name": "GitX",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "stellakamikaze/arturo": {
+    "owner": "stellakamikaze",
+    "name": "arturo",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Hiobi/Genealogiste": {
+    "owner": "Hiobi",
+    "name": "Genealogiste",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

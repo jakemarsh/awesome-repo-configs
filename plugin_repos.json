@@ -50915,5 +50915,122 @@
     "repoOwner": "0exp",
     "repoName": "daiver-prompt-view",
     "repoBranch": "main"
+  },
+  "nocodehack/nocodehack-roblox-engine": {
+    "name": "nocodehack/nocodehack-roblox-engine",
+    "description": "Claude Code skill that makes animated Roblox-style Shorts from one line: story, animation, camera, sound. Free.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nocodehack",
+    "repoName": "nocodehack-roblox-engine",
+    "repoBranch": "main"
+  },
+  "diagridio/diagrid-ai": {
+    "name": "diagridio/diagrid-ai",
+    "description": "Durable execution for AI agents and workflows: Claude Code plugin, agent skills and remote MCP server for building, running and debugging Dapr Workflows and Durable Agents on Diagrid Catalyst. Also works in Codex and...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "diagridio",
+    "repoName": "diagrid-ai",
+    "repoBranch": "main"
+  },
+  "openfabriq/openfabriq": {
+    "name": "openfabriq/openfabriq",
+    "description": "Your AI software factory, as code: agents that triage, implement, review and fix your GitHub repository, described in readable files and run with Claude Code on your machine or your team's server.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "openfabriq",
+    "repoName": "openfabriq",
+    "repoBranch": "main"
+  },
+  "JacobPEvans-ai/claude-code-plugins": {
+    "name": "JacobPEvans-ai/claude-code-plugins",
+    "description": "My custom claude code (hopefully agentsmd soon) plugins for when I've scoured the interwebs and all the existing CC marketplaces but couldn't find anything good enough.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JacobPEvans-ai",
+    "repoName": "claude-code-plugins",
+    "repoBranch": "main"
+  },
+  "karolkozer/agentwhy": {
+    "name": "karolkozer/agentwhy",
+    "description": "Why your AI agent reached for your secrets - from Claude Code and Codex transcripts",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "karolkozer",
+    "repoName": "agentwhy",
+    "repoBranch": "main"
+  },
+  "wverri/neon-hud": {
+    "name": "wverri/neon-hud",
+    "description": "Painel lateral para o Claude Code: tokens/s, contexto, custo, agentes e ferramentas ao vivo",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wverri",
+    "repoName": "neon-hud",
+    "repoBranch": "main"
+  },
+  "jbryan79/skillz": {
+    "name": "jbryan79/skillz",
+    "description": "Agent Skills by JABSystems. First up: art-from-writing, which turns an essay, letter, poem or speech into an original artwork of how it feels.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jbryan79",
+    "repoName": "skillz",
+    "repoBranch": "main"
+  },
+  "dukesky/rate-my-tennis-skill": {
+    "name": "dukesky/rate-my-tennis-skill",
+    "description": "Open-source AI agent skill: upload a tennis video, get an illustrated coaching report with scores, annotated frames, animated corrections and progress tracking. Works with Claude, ChatGPT and other agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dukesky",
+    "repoName": "rate-my-tennis-skill",
+    "repoBranch": "master"
+  },
+  "tkxlab-ai/GitX": {
+    "name": "tkxlab-ai/GitX",
+    "description": "Fail-closed release pipeline for Claude Code skills and macOS apps: tests, secret scan, checksums, SBOM and a 255-check Deep Audit in one command.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tkxlab-ai",
+    "repoName": "GitX",
+    "repoBranch": "main"
+  },
+  "gbertelliti-collab/claude-skills": {
+    "name": "gbertelliti-collab/claude-skills",
+    "description": "Orquestrador para o Claude Code: um chefe que confere, oper\u00e1rios Haiku e Sonnet que executam e uma ficha que aprende quem recebe a pr\u00f3xima tarefa",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gbertelliti-collab",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "stellakamikaze/arturo": {
+    "name": "stellakamikaze/arturo",
+    "description": "Arturo \u00e8 un harness per il lavoro della conoscenza, pensato per chi usa gi\u00e0 l'intelligenza artificiale in chat e non ha mai aperto un terminale.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "stellakamikaze",
+    "repoName": "arturo",
+    "repoBranch": "main"
+  },
+  "cweeperde/claude-skills": {
+    "name": "cweeperde/claude-skills",
+    "description": "Skills I wrote for Claude, installable as a Claude Code plugin marketplace or as zips for claude.ai.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cweeperde",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "Hiobi/Genealogiste": {
+    "name": "Hiobi/Genealogiste",
+    "description": "Plugin Claude Code  / Codex de g\u00e9n\u00e9alogie fran\u00e7aise : recherche multi-sources, recoupement et v\u00e9rification ind\u00e9pendante, \u00e9dition GEDCOM/Gramps avec validation, notes Obsidian et exports masqu\u00e9s.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Hiobi",
+    "repoName": "Genealogiste",
+    "repoBranch": "main"
   }
 }
