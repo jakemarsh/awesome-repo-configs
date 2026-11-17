@@ -50681,5 +50681,122 @@
     "repoOwner": "routinerun",
     "repoName": "routinerun",
     "repoBranch": "main"
+  },
+  "Li-Evan/BloomTutor": {
+    "name": "Li-Evan/BloomTutor",
+    "description": "Open-source AI tutor for personalized learning: Socratic, adaptive lessons to learn anything. Claude Code skill + self-hosted web app. Bloom 2 Sigma \u00b7 \u5f00\u6e90 AI \u5bb6\u6559",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Li-Evan",
+    "repoName": "BloomTutor",
+    "repoBranch": "main"
+  },
+  "jaredchu/context-docs": {
+    "name": "jaredchu/context-docs",
+    "description": "Agent skills for Codex and Claude Code that preserve project context, decisions and next steps across AI sessions in plain Markdown.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jaredchu",
+    "repoName": "context-docs",
+    "repoBranch": "main"
+  },
+  "leonasdev/copy-buttons": {
+    "name": "leonasdev/copy-buttons",
+    "description": "Claude Code copy buttons: copy a reply, a code block or a table with one click",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "leonasdev",
+    "repoName": "copy-buttons",
+    "repoBranch": "main"
+  },
+  "kele-dev/Claude-Orchestrator-Skill": {
+    "name": "kele-dev/Claude-Orchestrator-Skill",
+    "description": "Claude Code plugin for token-saving multi-agent orchestration: Opus plans and verifies, Haiku executes, Sonnet escalates. Includes parallel team mode, autopilot, checkpoints, and self-maintained project lessons.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kele-dev",
+    "repoName": "Claude-Orchestrator-Skill",
+    "repoBranch": "main"
+  },
+  "helenlin0621/tea-egg": {
+    "name": "helenlin0621/tea-egg",
+    "description": "\u5beb code \u6642\u990a\u4e00\u9846\u6162\u6162\u5165\u5473\u7684\u8336\u8449\u86cb \u00b7 Raise a tea egg that slowly marinates while you code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "helenlin0621",
+    "repoName": "tea-egg",
+    "repoBranch": "main"
+  },
+  "jainrakshit24/nexus": {
+    "name": "jainrakshit24/nexus",
+    "description": "Local-first engineering memory for coding agents. Durable project facts joined to your code graph, blast-radius analysis before an edit, and a gate that runs the checks instead of claiming they passed. MCP server + CL...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jainrakshit24",
+    "repoName": "nexus",
+    "repoBranch": "main"
+  },
+  "mikhailkho/copywriting-dr-nt": {
+    "name": "mikhailkho/copywriting-dr-nt",
+    "description": "Claude skill for neo-traditionalist direct-response copywriting: diagnoses the audience first, never invents facts, ends with a test plan.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mikhailkho",
+    "repoName": "copywriting-dr-nt",
+    "repoBranch": "main"
+  },
+  "uwakeme/wake-skills": {
+    "name": "uwakeme/wake-skills",
+    "description": "wake\u7684skill\u4ed3\u5e93",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "uwakeme",
+    "repoName": "wake-skills",
+    "repoBranch": "main"
+  },
+  "Kolibee-GmbH/m2b": {
+    "name": "Kolibee-GmbH/m2b",
+    "description": "Your second brain for Claude Code: one store for what you know about people, agreements and your own life, across all your projects and machines. \"Remind me on Friday\" becomes a task, a fact with an end date is rewrit...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Kolibee-GmbH",
+    "repoName": "m2b",
+    "repoBranch": "main"
+  },
+  "clockgrove/pendulum": {
+    "name": "clockgrove/pendulum",
+    "description": "Label a GitHub issue and walk away: a coding agent (Claude Code, Codex or Copilot CLI) plans, builds and opens the PR, a second agent reviews it, and your CI and merge queue land it. Open-source plugin + GitHub Action.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "clockgrove",
+    "repoName": "pendulum",
+    "repoBranch": "main"
+  },
+  "kamileecher/timeline-x-plugin": {
+    "name": "kamileecher/timeline-x-plugin",
+    "description": "Edit Timeline X Studio video projects from Claude Code and Codex \u2014 captions, voiceover, music, motion graphics, color and export through a secure OAuth connection to your desktop app.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kamileecher",
+    "repoName": "timeline-x-plugin",
+    "repoBranch": "main"
+  },
+  "JohnCarl-30/brb": {
+    "name": "JohnCarl-30/brb",
+    "description": "See what all your AI coding sessions did while you were away: Claude Code, Codex, Gemini and your own edits.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JohnCarl-30",
+    "repoName": "brb",
+    "repoBranch": "main"
+  },
+  "pushprove-max/conveyor-belt": {
+    "name": "pushprove-max/conveyor-belt",
+    "description": "Issue-to-merged-commit automation for Claude Code: one issue, one card, built, reviewed, tested, landed.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pushprove-max",
+    "repoName": "conveyor-belt",
+    "repoBranch": "main"
   }
 }

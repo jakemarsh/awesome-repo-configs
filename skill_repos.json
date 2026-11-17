@@ -58493,5 +58493,104 @@
         "name": "routinerun",
         "branch": "main",
         "enabled": true
+    },
+    "Li-Evan/BloomTutor": {
+        "owner": "Li-Evan",
+        "name": "BloomTutor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jaredchu/context-docs": {
+        "owner": "jaredchu",
+        "name": "context-docs",
+        "branch": "main",
+        "enabled": true
+    },
+    "kele-dev/Claude-Orchestrator-Skill": {
+        "owner": "kele-dev",
+        "name": "Claude-Orchestrator-Skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Gavinluo19/html-deck-kit": {
+        "owner": "Gavinluo19",
+        "name": "html-deck-kit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "stealth-factory/skills": {
+        "owner": "stealth-factory",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jainrakshit24/nexus": {
+        "owner": "jainrakshit24",
+        "name": "nexus",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "chuonglife/lesson-video-producer-skill": {
+        "owner": "chuonglife",
+        "name": "lesson-video-producer-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mikhailkho/copywriting-dr-nt": {
+        "owner": "mikhailkho",
+        "name": "copywriting-dr-nt",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Trooper-code/Trooper-s-Coordinator-Skills": {
+        "owner": "Trooper-code",
+        "name": "Trooper-s-Coordinator-Skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "uwakeme/wake-skills": {
+        "owner": "uwakeme",
+        "name": "wake-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "guidodinello/claude-dotfiles": {
+        "owner": "guidodinello",
+        "name": "claude-dotfiles",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Kolibee-GmbH/m2b": {
+        "owner": "Kolibee-GmbH",
+        "name": "m2b",
+        "branch": "main",
+        "enabled": true
+    },
+    "clockgrove/pendulum": {
+        "owner": "clockgrove",
+        "name": "pendulum",
+        "branch": "main",
+        "enabled": true
+    },
+    "kamileecher/timeline-x-plugin": {
+        "owner": "kamileecher",
+        "name": "timeline-x-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "JohnCarl-30/brb": {
+        "owner": "JohnCarl-30",
+        "name": "brb",
+        "branch": "main",
+        "enabled": true
     }
 }
