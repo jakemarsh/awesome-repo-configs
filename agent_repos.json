@@ -7646,5 +7646,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "praisethebit/skills": {
+    "owner": "praisethebit",
+    "name": "skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

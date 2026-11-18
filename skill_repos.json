@@ -58904,5 +58904,141 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "alchaincyf/huashu-art-motion": {
+        "owner": "alchaincyf",
+        "name": "huashu-art-motion",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "adhiprib/humanizer-indonesia": {
+        "owner": "adhiprib",
+        "name": "humanizer-indonesia",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "video-db/pair-programmer": {
+        "owner": "video-db",
+        "name": "pair-programmer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "laulauraluo/looks-good-to-ai": {
+        "owner": "laulauraluo",
+        "name": "looks-good-to-ai",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "GenesisAgentInfra/genesis": {
+        "owner": "GenesisAgentInfra",
+        "name": "genesis",
+        "branch": "main",
+        "enabled": true
+    },
+    "defog-ai/factiq-plugin": {
+        "owner": "defog-ai",
+        "name": "factiq-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shariefabdelmonem/interactive-html-presentation": {
+        "owner": "shariefabdelmonem",
+        "name": "interactive-html-presentation",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "dovudhusan/viral-hook-reels-skill": {
+        "owner": "dovudhusan",
+        "name": "viral-hook-reels-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "unmerge-app/unmerge-mcp": {
+        "owner": "unmerge-app",
+        "name": "unmerge-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "makeitsay/makeitsay-mcp": {
+        "owner": "makeitsay",
+        "name": "makeitsay-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ringku1/claude-mama": {
+        "owner": "ringku1",
+        "name": "claude-mama",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "HelloYeew/dotnet-skill": {
+        "owner": "HelloYeew",
+        "name": "dotnet-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "PixelGrove/ai-lawbook": {
+        "owner": "PixelGrove",
+        "name": "ai-lawbook",
+        "branch": "main",
+        "enabled": true
+    },
+    "praisethebit/skills": {
+        "owner": "praisethebit",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "LeongJinZhou/ai-company": {
+        "owner": "LeongJinZhou",
+        "name": "ai-company",
+        "branch": "main",
+        "enabled": true
+    },
+    "jerrydboonstra/imagegen": {
+        "owner": "jerrydboonstra",
+        "name": "imagegen",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kent010341/no-crap": {
+        "owner": "kent010341",
+        "name": "no-crap",
+        "branch": "master",
+        "enabled": true
+    },
+    "zappurenfuro/movie-recap": {
+        "owner": "zappurenfuro",
+        "name": "movie-recap",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "KUNisBest/English-daily-training": {
+        "owner": "KUNisBest",
+        "name": "English-daily-training",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "chuonglife/lesson-content-writer-skill": {
+        "owner": "chuonglife",
+        "name": "lesson-content-writer-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
