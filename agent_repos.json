@@ -7632,5 +7632,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "BenAIOS/benai-skills": {
+    "owner": "BenAIOS",
+    "name": "benai-skills",
+    "branch": "develop",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "yongmmin/review-harness": {
+    "owner": "yongmmin",
+    "name": "review-harness",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

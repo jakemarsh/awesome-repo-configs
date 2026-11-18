@@ -51032,5 +51032,104 @@
     "repoOwner": "Hiobi",
     "repoName": "Genealogiste",
     "repoBranch": "main"
+  },
+  "BenAIOS/benai-skills": {
+    "name": "BenAIOS/benai-skills",
+    "description": "BenAIOS/benai-skills \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "BenAIOS",
+    "repoName": "benai-skills",
+    "repoBranch": "develop"
+  },
+  "gethandup/handup": {
+    "name": "gethandup/handup",
+    "description": "The approval inbox for AI agents. Approve, deny or answer from your terminal, desktop or phone. Works with Claude Code, Codex, Cursor, omp and any MCP agent.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gethandup",
+    "repoName": "handup",
+    "repoBranch": "main"
+  },
+  "Nam0101/claude-multiverse": {
+    "name": "Nam0101/claude-multiverse",
+    "description": "Theme mod for Claude Code: 14 dark universes, the Claude critter at its desk, subagents through portals.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Nam0101",
+    "repoName": "claude-multiverse",
+    "repoBranch": "main"
+  },
+  "Chuck3PointZero/OAA": {
+    "name": "Chuck3PointZero/OAA",
+    "description": "Organizational Agent Architecture (OAA) \u2014 structure multi-agent systems the way companies are structured. Roles, Skills, and Tools, with bounded authority that composes down the chain.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Chuck3PointZero",
+    "repoName": "OAA",
+    "repoBranch": "master"
+  },
+  "kourgeorge/symcc": {
+    "name": "kourgeorge/symcc",
+    "description": "A Claude Code plugin that runs a team of coding agents from one chat: parallel tasks in isolated git worktrees, a live task board, tests and your approval before merge, and scheduled scouts that find the next job.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kourgeorge",
+    "repoName": "symcc",
+    "repoBranch": "main"
+  },
+  "yongmmin/review-harness": {
+    "name": "yongmmin/review-harness",
+    "description": "Review-gated coding harness for Claude Code \u2014 one command runs plan \u2192 implement \u2192 test \u2192 review with specialist agents and blocks commits until the reviewer passes. Ships a web-frontend rule profile (TypeScript, React...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yongmmin",
+    "repoName": "review-harness",
+    "repoBranch": "main"
+  },
+  "AgentBigBrain/Tedd": {
+    "name": "AgentBigBrain/Tedd",
+    "description": "\ud83e\udde0 Persistent local memory for AI coding agents: a private knowledge graph, MCP server, and Obsidian view for Claude Code and Codex. A shared agent brain.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AgentBigBrain",
+    "repoName": "Tedd",
+    "repoBranch": "main"
+  },
+  "rcsracing93/bambu-3mf-builder": {
+    "name": "rcsracing93/bambu-3mf-builder",
+    "description": "Claude skill that builds, changes and checks Bambu Studio project files (3MF): presets, colors, settings, pauses and calibration towers, with rules taken from the Bambu Studio source.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rcsracing93",
+    "repoName": "bambu-3mf-builder",
+    "repoBranch": "main"
+  },
+  "aminem2001/en-regle": {
+    "name": "aminem2001/en-regle",
+    "description": "\u2696\ufe0f Ton site est-il en r\u00e8gle ? Skill Claude qui audite, teste et corrige RGPD, cookies CNIL, mentions l\u00e9gales, CGV, accessibilit\u00e9 RGAA, DSA, AI Act et s\u00e9curit\u00e9 OWASP.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aminem2001",
+    "repoName": "en-regle",
+    "repoBranch": "main"
+  },
+  "Aboudjem/secure-my-app": {
+    "name": "Aboudjem/secure-my-app",
+    "description": "Find what a stranger can take from your app, with the proof behind each hole. 65 checks for coding agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Aboudjem",
+    "repoName": "secure-my-app",
+    "repoBranch": "main"
+  },
+  "contrastiskey/eetc-claude-code": {
+    "name": "contrastiskey/eetc-claude-code",
+    "description": "Shared Claude Code plugin and marketplace for EETC projects",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "contrastiskey",
+    "repoName": "eetc-claude-code",
+    "repoBranch": "master"
   }
 }

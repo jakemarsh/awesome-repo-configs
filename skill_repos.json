@@ -58791,5 +58791,118 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "BenAIOS/benai-skills": {
+        "owner": "BenAIOS",
+        "name": "benai-skills",
+        "branch": "develop",
+        "enabled": true
+    },
+    "Castaldo-Solutions/process-builder": {
+        "owner": "Castaldo-Solutions",
+        "name": "process-builder",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "gethandup/handup": {
+        "owner": "gethandup",
+        "name": "handup",
+        "branch": "main",
+        "enabled": true
+    },
+    "CadenceUX/monkeybread-mbs-plugin-skill": {
+        "owner": "CadenceUX",
+        "name": "monkeybread-mbs-plugin-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "zapier/awesome-zaps": {
+        "owner": "zapier",
+        "name": "awesome-zaps",
+        "branch": "main",
+        "enabled": true
+    },
+    "FuzulsFriend/interview-prep-builder": {
+        "owner": "FuzulsFriend",
+        "name": "interview-prep-builder",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Williams-Campos/antigravity-plugin-for-cc": {
+        "owner": "Williams-Campos",
+        "name": "antigravity-plugin-for-cc",
+        "branch": "main",
+        "enabled": true
+    },
+    "Chuck3PointZero/OAA": {
+        "owner": "Chuck3PointZero",
+        "name": "OAA",
+        "branch": "master",
+        "enabled": true
+    },
+    "yongmmin/review-harness": {
+        "owner": "yongmmin",
+        "name": "review-harness",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AgentBigBrain/Tedd": {
+        "owner": "AgentBigBrain",
+        "name": "Tedd",
+        "branch": "main",
+        "enabled": true
+    },
+    "rcsracing93/bambu-3mf-builder": {
+        "owner": "rcsracing93",
+        "name": "bambu-3mf-builder",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "aminem2001/en-regle": {
+        "owner": "aminem2001",
+        "name": "en-regle",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Aboudjem/secure-my-app": {
+        "owner": "Aboudjem",
+        "name": "secure-my-app",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "omnigami-ai/android-style-logo-reveal": {
+        "owner": "omnigami-ai",
+        "name": "android-style-logo-reveal",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mango-leo/arch-draw": {
+        "owner": "mango-leo",
+        "name": "arch-draw",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "contrastiskey/eetc-claude-code": {
+        "owner": "contrastiskey",
+        "name": "eetc-claude-code",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AcidSecs/claude-builder-standards": {
+        "owner": "AcidSecs",
+        "name": "claude-builder-standards",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
